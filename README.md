@@ -1,4 +1,5 @@
-## Hi there 👋
+# NuclearCesko
+## PhD student in radiochemistry for nuclear medicine
 
 <!--
 **NuclearCesko/NuclearCesko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
